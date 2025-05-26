@@ -39,4 +39,4 @@ and re-add a new space; this will delete the invisible character.
 cd Release && cmake.exe -G "MinGW Makefiles" ..
 3) The above step should complete without an error and find a C++ compiler. Next we can compile
 the code: mingw32-make.exe
-4) We can now run the game: ./pong.exe
+4) We can now run the game: ./main.exe
